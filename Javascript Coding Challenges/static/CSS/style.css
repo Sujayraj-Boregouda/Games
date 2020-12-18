@@ -5,8 +5,6 @@
     text-align: center;
 }
 
-
-
 .flex-box-container-1, .flex-box-container-2, .flex-box-rps, .flex-box-pick-color, 
 .flex-blackjack-row-1, .flex-blackjack-row-2, .flex-blackjack-row-3{
 display: flex;
@@ -21,8 +19,6 @@ justify-content: space-around;
     background: url('data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBw8PEhUPDw8VFRUVFRUVFRUVFQ8VFRUVFRUWFhUVFRUYHSggGBolGxUVITEhJSkrLi4uFx8zODMtNygtLisBCgoKDQ0NDw0NDisZFRkrNystKy0rKystLTc3Ky03KzcrLTctLS0tNysrLSsrKy0rKysrKysrKysrKysrKysrK//AABEIAKkBKwMBIgACEQEDEQH/xAAYAAEBAQEBAAAAAAAAAAAAAAABAgADB//EABgQAQEBAQEAAAAAAAAAAAAAAAABEQJB/8QAFwEBAQEBAAAAAAAAAAAAAAAAAAECBP/EABYRAQEBAAAAAAAAAAAAAAAAAAABEf/aAAwDAQACEQMRAD8A8vioIXO4zFCFELNDAaKgxUQY4xgjFmSjNCcRBDIZDAGNhIJwYqtgJsCmwEnDIwAFgSKoKqKFCxQNhkYigFlAmqooqQoKrnFRMVBFQgojRUBgGGAxBUMEIjFmjKNCxwCRCIxxmAMWBOMWAMxAJqqBU0VQBIpFaUM1YWMk1lACKKBpSqoiomRcEMMaMiEwECqCKiIxYxEaFjEGhjEGMYiAscEDFg1LUsCcOkCgFsFTU1aaCQWXRIUFWAEKoFLUVNSoKsRFRMVERUMgihGIVERoqCRUQJgVERpDGIjNDDgjGRpFREaRsJBONigCbBimwEjFYwJFNZVSmrqRpFFVRgAYWWKkVVCqkKoVU0KowVyi4mGCLhEIhhghiIqGDFRlCpKoBMBErGMcRDFRPMXBGLRQDAoIiaFVNijA4wqamqoFSKqpVU1NVRYKlmIJakNNRNCqlVAIBzioiKgLhTFCEwQxEVFREqoiLKYYgphDBFGJhiJVxURKqCKKSIptEGoMK1o1RtDawooahVFFKaKKmmiitQ2soKDQsaFZgqgawBzioiLiioYIYiFUSZUoqGCFEUYlURFQphAxSYYMqipURUQVDqTBDrAUCBraDM1ACsGVWqaU0aCTaADEKoo00NRWqaQKLUmso5xURFwFGCHUQxmhSioUxURCqAxEMIYCYCIoxMUiEp0iYQ2toYK2sAwhowrCkKqRTRoqaDRQYMyqBSyxUg0KooNCrHKKiYrmiKiokoioYmGAqKlRFc1EUYmFEVpSyClSoMoizESqDCUkCAwFksIpk62imiisAorUUUMBVwOsNZVjCtQqtQzCihgqxyiohUEWUwoKMSqCExMILhiJVRMMVGTp1EUUSnUxFSqlQdBR1GnQUNGi0FBOnQOsnWAto0LgdA0WqrUVhaYuMzaFGbRraBS2i0VrRWqVaRKpPKoMmU6kgrTKmlBUOphEVrSiGgdOpIK1pUxoYi9bRWQOnQwHW1Jgja2iNANraKKKrRoZRrRrAVrQw9A6NbpqDaNagVtFrUKsbQ0A1H//2Q==') center;
     color: #ffffff;
 }
-
-
 
 .flex-blackjack-row-1 div {
 border: 1px solid black;
@@ -59,7 +55,6 @@ border: 1px solid black;
 align-items: center;
 }
 
-
 .container-2 {
     border: 1px solid red;
     width: 75%;
@@ -83,9 +78,6 @@ align-items: center;
     box-shadow: 0px 10px 50px rgba(37, 50, 233, 1); 
 }
     
-    
-
-
 
 /* Counter up*/
 
